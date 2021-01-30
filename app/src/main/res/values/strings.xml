@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project2_Roshan_Sreekanth</string>
+    <string name="create_account_prompt"><u>Don\'t have an account? Create one here</u></string>
+    <string name="title_activity_store">StoreActivity</string>
+    <string name="tab_text_1">Men</string>
+    <string name="tab_text_2">Women</string>
+    <string name="tab_text_3">Kids</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
